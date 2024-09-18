@@ -1,2 +1,1 @@
-👋 Hi, I’m @sochyonufab
-I write code :)
+Hi, I’m Sochy 👋
